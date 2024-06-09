@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first git Repo
+this is my first git Repo.
+author - anurag jaiswal
